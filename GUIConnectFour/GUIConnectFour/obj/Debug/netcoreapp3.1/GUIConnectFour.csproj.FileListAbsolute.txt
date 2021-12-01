@@ -1,0 +1,17 @@
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.exe
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.deps.json
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.runtimeconfig.json
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.runtimeconfig.dev.json
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.dll
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\bin\Debug\netcoreapp3.1\GUIConnectFour.pdb
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.csproj.AssemblyReference.cache
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.Form1.resources
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.Properties.Resources.resources
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.csproj.GenerateResource.cache
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.AssemblyInfoInputs.cache
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.AssemblyInfo.cs
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.dll
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.pdb
+C:\Users\RonaldHotchkiss\Code\list\GUIConnectFour\GUIConnectFour\obj\Debug\netcoreapp3.1\GUIConnectFour.genruntimeconfig.cache
